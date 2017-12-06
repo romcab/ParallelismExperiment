@@ -1,0 +1,7 @@
+/Users/romcabral/Documents/rom/github/parallelprogramming/ParallelProgrammingTest/ParallelProgrammingTest/bin/Debug/ParallelProgrammingTest.dll
+/Users/romcabral/Documents/rom/github/parallelprogramming/ParallelProgrammingTest/ParallelProgrammingTest/bin/Debug/ParallelProgrammingTest.dll.mdb
+/Users/romcabral/Documents/rom/github/parallelprogramming/ParallelProgrammingTest/ParallelProgrammingTest/bin/Debug/nunit.framework.dll
+/Users/romcabral/Documents/rom/github/parallelprogramming/ParallelProgrammingTest/ParallelProgrammingTest/bin/Debug/nunit.framework.xml
+/Users/romcabral/Documents/rom/github/parallelprogramming/ParallelProgrammingTest/ParallelProgrammingTest/obj/Debug/ParallelProgrammingTest.csprojResolveAssemblyReference.cache
+/Users/romcabral/Documents/rom/github/parallelprogramming/ParallelProgrammingTest/ParallelProgrammingTest/obj/Debug/ParallelProgrammingTest.dll
+/Users/romcabral/Documents/rom/github/parallelprogramming/ParallelProgrammingTest/ParallelProgrammingTest/obj/Debug/ParallelProgrammingTest.dll.mdb
